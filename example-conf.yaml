@@ -7,7 +7,7 @@ theme           : quest                        #主题名称
 enableCache     : true                         #是否开启缓存
 highlight       : on                           #是否开启代码高亮支持
 mathjax         : on                           #是否开启数学公式支持
-duoshuo         : dode                     #多说评论框ID
+duoshuo         : houyi                     #多说评论框ID
 baiduAnalytics  : 97340869c56a53d7bc21f52907626ad2  #百度统计ID
 keywords        : 散场后的邂逅,markdown,blog,php,houyi1121 #网站关键字
 description     : GitBlog是一个简单易用的Markdown博客系统,这是我的第一个GitBlog博客. #网站描述
