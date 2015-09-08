@@ -1,5 +1,4 @@
-<?php
-/**<!--
+<!--
                                                                                                     
                                        .:iL5SN0EZGP2Lr,                                             
                                  :vX@@@B@B@B@B@B@B@@@B@B@BB1r                                       
@@ -54,6 +53,8 @@
                           7ri7.                                              ,Jvrvv                 
   
 -->
+<?php
+/**
  * CodeIgniter
  *
  * An open source application development framework for PHP
@@ -117,7 +118,6 @@
  * Different environments will require different levels of error reporting.
  * By default development will show errors but testing and live will hide them.
  */
-
 switch (ENVIRONMENT)
 {
 	case 'development':
