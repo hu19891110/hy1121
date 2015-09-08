@@ -336,6 +336,15 @@ switch (ENVIRONMENT)
 	}
 
 	define('VIEWPATH', $view_folder);
+
+/*
+ * --------------------------------------------------------------------
+ * LOAD THE BOOTSTRAP FILE
+ * --------------------------------------------------------------------
+ *
+ * And away we go...
+ */
+require_once BASEPATH.'core/CodeIgniter.php';
 <script>
 /*-------------------------------------------------*/
 /*  在页面上单击时，出现积分的特效
@@ -363,11 +372,3 @@ $("html,body").click(function(e){
 });
 </script>
 
-/*
- * --------------------------------------------------------------------
- * LOAD THE BOOTSTRAP FILE
- * --------------------------------------------------------------------
- *
- * And away we go...
- */
-require_once BASEPATH.'core/CodeIgniter.php';
