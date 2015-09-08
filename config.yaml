@@ -1,2 +1,4 @@
-name: hy1121
+name: gitblogdoc
 version: 1
+handle:
+    - rewrite: if(!is_dir() && !is_file() && path ~ "/") goto "/index.php?%{QUERY_STRING}"
