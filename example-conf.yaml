@@ -1,15 +1,15 @@
 #GitBlog配置文件，使用4个空格代替Tab
 ---
-url             : "http://jockchou.gitblog.cn" #网站首页url
-title           : jockchou的博客               #博客标题
-subtitle        : 自豪地采用GitBlog            #博客副标题
+url             : "http://www.dode.top" #网站首页url
+title           : 散场后的邂逅               #博客标题
+subtitle        : 既已散场，何必邂逅            #博客副标题
 theme           : quest                        #主题名称
 enableCache     : true                         #是否开启缓存
 highlight       : on                           #是否开启代码高亮支持
 mathjax         : on                           #是否开启数学公式支持
-duoshuo         : jockchou                     #多说评论框ID
-baiduAnalytics  : 732acc76ff6bd41343951a67cbfafe34  #百度统计ID
-keywords        : jockchou,markdown,blog,php,github #网站关键字
+duoshuo         : 散场后的邂逅                     #多说评论框ID
+baiduAnalytics  : 97340869c56a53d7bc21f52907626ad2  #百度统计ID
+keywords        : 散场后的邂逅,markdown,blog,php,houyi1121 #网站关键字
 description     : GitBlog是一个简单易用的Markdown博客系统,这是我的第一个GitBlog博客. #网站描述
 version         : 2.2                          #系统版本号
 
@@ -20,10 +20,10 @@ blog:
     allBlogsForPage : false                    #页面需要所有博客数据
     
 author:
-    name    : jockchou                         #你的名称     
-    email   : 164068300@qq.com                 #你的邮箱
-    github  : jockchou                         #你的Github名称
-    weibo   : 2558456121                       #你的微博ID
+    name    : 散场后的邂逅                         #你的名称     
+    email   : houyi1121@163.com                 #你的邮箱
+    github  : houyi1121                         #你的Github名称
+    weibo   : 摩羯hy                       #你的微博ID
 
 text:
     title: 简介                                #任一文本标题
