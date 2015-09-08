@@ -1,6 +1,6 @@
 #GitBlog配置文件，使用4个空格代替Tab
 ---
-url             : "http://www.dode.top"      #网站首页url
+url             : http://www.dode.top      #网站首页url
 title           : 散场后的邂逅               #博客标题
 subtitle        : 既已散场，何必邂逅            #博客副标题
 theme           : quest                        #主题名称
