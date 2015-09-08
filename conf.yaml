@@ -1,23 +1,23 @@
 #GitBlog配置文件，使用4个空格代替Tab
 ---
-url: /
-title: Your-GitBlog
-subtitle: 自豪地采用GitBlog
-theme: cube
-enableCache: true
-highlight: true
+url: “http://www.dode.top”
+title: 散场的邂逅-博客
+subtitle: 一些过去，记住就好；一些回忆，收好安放，流年清浅，我只愿面朝大海春暖花开。
+theme: quest
+enableCache: on
+highlight: on
 mathjax: false
-duoshuo:
-baiduAnalytics:
-keywords: GitBlog,博客,Markdown博客,jockchou
+duoshuo:散场后的邂逅
+baiduAnalytics:97340869c56a53d7bc21f52907626ad2
+keywords: 散场后的邂逅,markdown,blog,php,houyi1121
 description: >
     GitBlog是一个简单易用的Markdown博客系统
 version: 2.2
 author:
-    name: your-name
-    email: your-email@example.com
-    github: your-github
-    weibo: your-weibo
+    name: houyi1121
+    email: houyi1121@163.com
+    github: houyi1121
+    weibo: hy951121
     avatar:
 blog:
     recentSize: 5
@@ -27,4 +27,4 @@ blog:
 text:
     title: 介绍
     intro: >
-          本博客使用Gitblog搭建，欢迎你!
+          散场的邂逅，欢迎你!
