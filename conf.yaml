@@ -19,7 +19,7 @@ author:
     email: houyi1121@163.com
     github: houyi1121
     weibo: hy951121
-    avatar:src="/img/logo_128x128.png"
+    avatar:/img/logo_128x128.png
 blog:
     recentSize: 5
     pageSize: 6
