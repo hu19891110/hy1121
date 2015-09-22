@@ -62,10 +62,6 @@
         width: 620px;
     }
     
-    article.full .look {
-        height: 349px;
-    }
-    
 }
 
 /* Mobile Optimizations (M)
@@ -90,10 +86,6 @@
     article:nth-child(1),
     article.full {
         width: 570px;
-    }
-    
-    article.full .look.video {
-        height: 321px;
     }
     
 }
