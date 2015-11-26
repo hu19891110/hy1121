@@ -1,8 +1,8 @@
 #GitBlog配置文件，使用4个空格代替Tab
 
 ---
-url: http://www.dode.top
-title: 散场的邂逅-博客
+url: http://blog.dode.top
+title: 散场的邂逅
 subtitle: 一些过去，记住就好；一些回忆，收好安放，流年清浅，我只愿面朝大海春暖花开。
 theme: default
 enableCache: on
